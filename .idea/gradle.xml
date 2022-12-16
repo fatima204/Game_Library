@@ -13,6 +13,15 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Isha" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Isha" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Memory" />
         <option name="modules">
           <set>
@@ -26,6 +35,24 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Pong" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Rock_Paper_Scissors" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Rock_Paper_Scissors" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Tetris" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Tetris" />
           </set>
         </option>
       </GradleProjectSettings>
